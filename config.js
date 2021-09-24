@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'No! Are you dreaming?',
     question:'There are 7 billions smiles in the world..Why mine is your favorite? 😛',
     btnReply: 'Send it to Thành',
-    reply: 'genuine+cute+naughty..😈 lol ',
+    reply: 'genuine+cute+naughty😈...lol',
     mess: 'Ye,I know 😂. You make me blush babe🙈 I like you too hehe ',
     messDesc: 'What are you waiting for? Tell me about how your day was 🥰 ',
     btnAccept: 'Lets gooo!!',
